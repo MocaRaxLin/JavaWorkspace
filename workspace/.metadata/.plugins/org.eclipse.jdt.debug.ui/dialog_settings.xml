@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.jdt.debug.ui.MAIN_METHOD_SELECTION_DIALOG">
+		<item value="true" key="ShowStatusLine"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History&gt;&#x0D;&#x0A;&lt;historyRootNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=frostwire-desktop/common\/vuze\/azureus2\/src&amp;lt;com.aelitis.azureus.core.proxy.socks{AESocksProxyFactory.java[AESocksProxyFactory&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=forgeMod_1.7.2/C:\/Users\/Justin\/.gradle\/caches\/minecraft\/net\/minecraftforge\/forge\/1.7.2-10.12.2.1127\/forgeSrc-1.7.2-10.12.2.1127.jar&amp;lt;net.minecraft.client.main(Main.class[Main&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=forgeMod_1.7.2/C:\/Users\/Justin\/.gradle\/caches\/modules-2\/files-2.1\/org.scala-lang\/scala-compiler\/2.10.2\/64c8b1380cc53d6850823d6e4e7ae984aa44ef9c\/scala-compiler-2.10.2.jar&amp;lt;ch.epfl.lamp.fjbg(Main.class[Main&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=forgeMod_1.7.2/C:\/Users\/Justin\/.gradle\/caches\/modules-2\/files-2.1\/org.ow2.asm\/asm-debug-all\/4.1\/dd6ba5c392d4102458494e29f54f70ac534ec2a2\/asm-debug-all-4.1.jar&amp;lt;org.objectweb.asm.util(ASMifier.class[ASMifier&lt;/infoNode&gt;&#x0D;&#x0A;&lt;/historyRootNode&gt;&#x0D;&#x0A;&lt;/History&gt;" key="History"/>
+		<section name="DialogBoundsSettings">
+			<item value="600" key="DIALOG_WIDTH"/>
+			<item value="39" key="DIALOG_Y_ORIGIN"/>
+			<item value="391" key="DIALOG_X_ORIGIN"/>
+			<item value="500" key="DIALOG_HEIGHT"/>
+			<item value="1|微軟正黑體|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|微軟正黑體" key="DIALOG_FONT_NAME"/>
+		</section>
+	</section>
+</section>

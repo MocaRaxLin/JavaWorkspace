@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 2 elements to &apos;EnglishTypingTraining/src&apos;&#x0D;&#x0A;- Original project: &apos;EnglishTypingTraining&apos;&#x0D;&#x0A;- Destination element: &apos;EnglishTypingTraining/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     word bank&#x0D;&#x0A;     user info&#x0D;&#x0A;- Update references to refactored element" description="Move folders" destination="/src" element1="word bank" element2="user info" files="0" flags="589830" folders="2" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1432281883030" units="0" version="1.0"/>
+</session>

@@ -1,0 +1,18 @@
+8
+S->l
+A->cc
+B->l
+C->l
+C->bc
+B->ab
+S->SBAA
+A->Sba
+8
+C->*bc {c}
+B->*ab {c}
+S->SB*AA {b}
+A->*Sba {c}
+C->b*c {c}
+B->a*b {a}
+S->SBA*A {b}
+A->*Sba {a}
